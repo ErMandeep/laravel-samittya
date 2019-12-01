@@ -1,0 +1,1108 @@
+
+@media only screen and (max-width:1199px){
+
+	.banner-search button.searchButton{
+		right: 95px;
+	}
+	.feature p{
+		margin: 0px 45px;
+	}
+	.categories-tag-section{
+		/*padding: 210px 0px 195px;*/
+	}
+	.offer-section-content{
+		width: 100%;
+	}
+	.teacher-thumbnail-container {
+    	/*width: 767px;   */
+    	width: 100%;
+    	margin: auto;
+	}
+	.card-columns {
+    	column-count: 2;
+	}
+	.card.mt80{
+    	/*margin-top: 15px !important;*/
+	}
+	.samitya-header .navbar-nav .nav-link{
+		font-size: 14px;
+	}
+	.login-signup a{
+		font-size: 14px;
+	}
+	.banner-text p{
+		margin: 10px 0px;
+	}
+	.offer-thumbs-wrapper{
+		padding-left: 0px;
+	}
+	.samitya-button.mt100{
+		margin-top: 40px;
+	}
+}
+@media only screen and (max-width:991px){
+
+
+
+
+	.language div.lan {
+    margin-bottom: 5px;
+    margin-right: 0px;
+    font-weight: 600;
+    color: #3D2D48;
+    font-size: 17px;
+    line-height: 25px;
+}
+
+	.offer-section {
+    margin-top: 0px;
+    position: relative;
+    /* margin-bottom: 80px; */
+}
+
+#popular-course .price, .other_courses .price {
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+}
+.language .lang {
+    margin-left: 0px;
+    font-size: 13px;
+    font-weight: 100;
+}
+
+
+.liveclass_heading_wrapper {
+    width: 50%;
+    background: linear-gradient(to right,#FB5F2F,#FD1564);
+    border: none;
+    border-radius: 250px;
+    box-shadow: 0 0 5px #333;
+    margin: 0px auto 40px auto;
+    padding: 10px 0px;
+}
+
+
+	.thumb-content {
+    position: relative;
+    z-index: 5;
+    min-height: 250px ;
+}
+
+
+.feature {
+    /*width: 238px;
+    height: 250px;*/
+    width: 210px;
+    height: 210px;
+    border-radius: 100%;
+    background: white;
+    border: 1px solid #fc1b67;
+    box-shadow: 1px 1px 10px 1px #b1aeae;
+}
+
+
+.feature-icon {
+    /*width: 188px;
+    height: 83px;*/
+    width: 160px;
+    height: 115px;
+    margin: 25px auto 0px;
+}
+
+.feature h3 {
+    color: rgb(61, 45, 72);
+    text-align: center;
+    /*font-size: 18px;*/
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 0px;
+}
+.feature-icon.chat-icon img {
+    height: 100%;
+}
+/*.row.mt40 .tag:nth-child(4) {
+    text-align: center;
+}
+.row.mt40 .tag:nth-child(7) {
+    text-align: center;
+}*/
+
+	
+
+	.login-signup-button .login-signup a{
+		box-shadow: 0px 0px 10px 0px #9e9e9e;
+	}
+	.categories-tag-section {
+    	/*padding: 200px 0px 100px;*/
+    	margin: 20px 0px;
+	}
+	.stay-updated-section h3{
+		font-size: 24px;
+	}
+	.stay-updated-section p {
+    	font-size: 15px;
+    	margin-top: 5px;
+	}
+	.teacher-thumbnail-wrapper {
+    	margin-top: 40px;
+	}
+	.banner-search input.learn-field,.select-duration{
+		width: 100%;
+	}
+	.signup {
+    	padding: 5px 10px;
+	}
+	.select-duration:after{
+		right: 13px;
+	}
+	.banner-search select.duration-field,.banner-search input.learn-field{
+		font-size: 13px;
+	}
+	.banner-search button.searchButton {
+    	right: 0px;
+	}
+	.banner-search button.searchButton img {
+    	width: 60%;
+	}
+	.main-title{
+		font-size: 28px;
+	}
+	.feature p {
+    	margin: 0px 20px;
+	}
+	.mt100 {
+    	margin-top: 60px;
+	}
+	.login {
+    	padding: 10px 5px 10px 15px;
+	}
+	.banner-search {
+    	margin-top: 25px;
+	}
+	.headerWrapper a.navbar-brand {
+    	display: block;
+    	width: 98px;
+	}
+	.samitya-header .navbar-nav .nav-link {
+    	font-size: 13px;
+    	padding: 5px 0px;
+	}
+	.login-signup a {
+	    font-size: 12px;
+	}
+	.bannerHolder{
+    	padding: 150px 0px;
+	}
+	.banner-text h1{
+		font-size: 32px;
+		line-height: 42px;
+	}
+	.banner-text p {
+    	margin: 5px 0px;
+    	font-size: 14px;
+	}
+	.offer-thumbnail-row {
+    	max-width: 100%;
+    	flex: 0 0 100%;
+    	padding: 0px 30px !important;
+    	text-align: center;
+	}
+	.offer-thumbs-wrapper{
+		margin-top: 80px;
+	}
+	.teacher-thumbnail-section {
+    	/*padding: 0px 0px 80px 0px; */
+    	/*padding: 0 !important;*/
+	}
+	.teacher-thumbnail-container {
+    	width: 700px;
+    	margin: auto;
+	}
+	.tag{
+		margin-bottom: 20px;
+	}
+	.mb20 {
+    	margin-bottom: 0px;
+	}
+	.footer-section .col-md-3, .footer-section .col-md-2 {
+    	width: 50%;
+    	max-width: 50%;
+    	flex: 0 0 50%;
+    	margin-bottom: 20px;
+	}
+	.footer-section{
+		padding: 60px 0px 40px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+	.footer-social .subs-form input{
+		padding: 0px 10px;
+	    height: 50px;
+	}
+	.footer-section .subs-form .nws-button {
+		height: 50px;
+    	width: 80px;
+    	line-height: 50px;
+	}
+	.footer-section .footer-social li:nth-child(4) ,.footer-section .footer-social li:nth-child(5){
+		margin-top: 10px;
+	}  
+
+
+	.details .title {
+    color: #3D2D48;
+    font-family: Varela Round;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    background: rgba(255,255,255,0.9);
+    border: 0px solid #BDBDBD;
+    border-radius: 60px;
+    box-shadow: 0 0 5px #333;
+    width: 43%;
+    padding: 5px 0px;
+}
+
+
+	.thumbnail{
+		text-align: center;
+	}
+	.samitya-menu button{
+	    position: absolute;
+	    outline: none;
+	    background-image: url(../../images/menu.svg);
+	    background-repeat: no-repeat;
+	    background-position: center;
+	    background-size: 30px;
+	    cursor: pointer;
+	    right: 0px;
+	    padding: 0px;
+	}
+	.login-signup-button.dektop {
+    display: none;
+	}
+	.log-sign-responsive{
+	display: block;
+	}
+	.login-signup-button {
+    display: block;
+    clear: both;
+    width: 100%;
+    margin: auto;
+	}
+	.samitya-menu .navbar-collapse {
+    width: 100%;
+	}
+	.navbar-nav.ml-auto {
+    width: 100%;
+	}
+	.samitya-menu .navbar-collapse ul li:not(:last-child) {
+    border-bottom: #ccc solid 1px;
+	}
+	.samitya-menu .navbar-collapse ul li {
+    padding: 5px 0px;
+	}
+	.samitya-menu .navbar-collapse ul li:not(:last-child) {
+    border-bottom: #ccc solid 1px;
+	}
+	#navbarsExampleDefault .category_item {
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+    padding: 0px !important;
+	}
+	.samitya-header .navbar-nav .nav-link {
+    line-height: 24px;
+	}
+	.samitya-header-inner {
+    display: block;
+    padding: 0px;
+	}
+	.samitya-logo {
+    float: left;
+	}
+	.samitya-menu {
+    float: none;
+    max-width: 100% !important;
+    width: 100%;
+	}	
+	.tag.col-md-6 {
+    max-width: 42%;
+    padding: 0px;
+	}
+	.feature {
+    width: 210px;
+    height: 210px;
+	}
+	.feature h3 {
+    margin-top: 10px;
+	}
+	.live_page_wrapper .text {
+    font-size: 60px;	
+    padding: 30px 0px;
+	}
+	.live_page_wrapper .text svg {
+    width: 100px;
+    height: 100px;
+	}
+	.feature-icon {
+    width: 160px;
+    height: 115px;
+    margin: 25px auto 0px;
+	}
+	.teacher-thumbnail-section {
+    padding: 60px 0px;
+	}
+}
+@media only screen and (max-width:767px){
+
+	.footer-section .footer-social li {
+    margin-top: 8px;
+	}
+	.thumb-content {
+    position: relative;
+    z-index: 5;
+    min-height: 180px ;
+}
+	.thumbnail{
+		text-align: center;
+	}
+
+
+.padding-0 {
+     padding-right: 0; 
+     padding-left: 0; 
+     width: 100%!important; 
+}
+
+.liveclass_heading_wrapper .text {
+    color: #FFFFFF;
+    font-size: 22px;
+    text-align: center;
+    /* line-height: 1px; */
+    padding: 15px 0px;
+}
+
+#popular-course .lan:before, .hrs:before {
+    /*content: "";
+    width: 23px;
+    height: 15px;
+    background-repeat: no-repeat;
+    position: absolute;*/
+    left: -30px;
+    top: -5px;
+}
+.liveclass_heading_wrapper {
+    width: 100%; 
+    background: linear-gradient(to right,#FB5F2F,#FD1564);
+    border: none;
+    border-radius: 250px;
+    box-shadow: 0 0 5px #333;
+    margin: 0px auto 40px auto;
+}
+
+	.feature {
+    margin: 0px auto;
+    border-radius: 100%;
+    background: white;
+    border: 1px solid #fc1b67;
+    box-shadow: 1px 1px 10px 1px #b1aeae;
+}
+	ul.mk-star {
+    float: left;
+    width: auto;
+    padding: 0;
+}
+	.mk-pad-20{
+		padding-top: 20px;
+	}
+	.mk-no-line p {
+    line-height: 15px;
+}
+	.col-md-8.banner-section.text-center img {
+    width: 77px;
+}
+	.col-md-8.banner-section {
+    padding: 49px;
+}
+.banner-section {
+    
+    background-size: 100%;
+    }
+	.mk-right-left{
+
+	text-align: left;
+}
+.card.col-md-5 {
+  margin: 10px 10px;
+}
+.col-md-4.mk-bor li {
+width: 100%;
+}
+
+	.login-signup-button .login-signup a{
+		padding: 5px 10px;
+	}
+	.samitya-header .navbar-nav .nav-link{
+		line-height: 24px;
+	}
+	.headerWrapper a.navbar-brand{
+    	width: 140px;
+	}
+	.banner-image{
+		display: none;
+	}
+	.offer-section{
+		/*margin-top: 50px;*/
+		margin-bottom: 0px;
+	}
+	.banner-section{
+		box-shadow: 0px 10px 10px 0px #ecebea;
+	}
+	.offer-section .col-md-4{
+		margin-bottom: 40px;
+	}
+	.teacher-thumbnail-section {
+    	padding: 20px 0px 60px;
+	}
+	.main-title {
+    	font-size: 26px;
+    	line-height: 32px;
+	}
+	.bannerHolder {
+    	padding: 100px 0px;
+	}
+	/*.login-signup-button.dektop{
+		display: none;
+	}*/
+	.log-sign-responsive{
+		display: block;
+	}
+	.noposition{
+    	display: none;
+	}
+	.bannerHolder{
+    	padding: 50px 0px 80px;
+	}
+	.offer-section-content{
+		width: 100%;
+	}
+	.offer-graphic{
+		left: 0px;
+    	width: 350px;
+    	margin-top: 40px;
+	}
+	.teacher-thumbnail-container {
+    	width: auto;
+    	margin: auto;
+	}
+	.teacher-thumbnail-container {
+    	width: auto;
+    	margin: 0px 20px;
+	}
+	.samitya-header-inner{
+		display: block;
+	}
+	.samitya-logo{
+		float: left;
+	}
+	.samitya-menu{
+		float: none;
+		width: 100%;
+	}
+	.login-signup-button{
+		display: block;
+    	clear: both;
+    	width: 190px;
+    	margin: auto;
+	}
+	
+	.samitya-menu .navbar-collapse{
+		width: 100%;
+	}
+	.navbar-nav.ml-auto{
+		width: 100%;
+	}
+	.banner-text h1{
+		font-size: 31px;
+	}
+	.banner-text p br{
+		display: none;
+	}
+	.banner-text p{
+		font-size: 14px;
+	}
+	.banner-search{
+		margin-top: 10px;
+	}
+	.banner-search input{
+		font-size: 14px;
+	}
+	.offer-thumb{
+		width: 230px;
+	    display: block;
+	    margin: auto auto 20px;
+	}
+	.teacher-thumbnail-section {
+    	padding: 20px 0px 20px;
+	}
+	.offer-thumbs-wrapper{
+		padding-left: 0px;
+		margin-top: 60px;
+	}
+	.card-columns {
+    	column-count: 2;
+	}
+	.thumb-content p{
+		font-size: 16px;
+    	line-height: 20px;
+	}
+	.mt100 {
+    	margin-top: 30px;
+    	/*margin-left: 80px;   /* superman */
+	}
+	.categories-tag-section{
+		padding: 30px 0px 100px;
+		background-image: none;
+	}
+	.tag{
+		margin-bottom: 20px;
+	}
+	.mb20 {
+    	margin-bottom: 0px;
+	}
+	.tag a{
+		font-size: 15px;
+    	line-height: 11px;
+	    padding: 15px 25px;
+	}
+	.categories-tag-section{
+		padding: 0px 0px 40px;
+	}
+	.stay-updated-section h3{
+		font-size: 21px;
+    	line-height: 28px;
+	}
+	.stay-updated-section p {
+    	font-size: 16px;
+    	line-height: 20px;
+    	margin-top: 10px;
+	}
+	.footer-section .col-md-2,.footer-section .col-md-3{
+		margin-bottom: 20px;
+	}
+	.footer-section{
+		padding: 60px 0px 40px;
+	}
+	.update-buttons a{
+		font-size: 14px;
+    	line-height: 16px;
+    	padding: 15px 35px;
+	}
+	.update-buttons{
+		margin-top: 20px;
+	}
+	.stay-updated-section p{
+		margin-top: 20px;
+	}
+	.famous-teacher-section .main-title{
+    	margin-bottom: 10px;
+	}
+	.banner-search select.duration-field, .banner-search input.learn-field {
+    	font-size: 11px;
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+@media only screen and (max-width:575px){
+	.col-md-7.mk-bor-2 {
+    border: 1px none rgb(0, 0, 0);
+    border-radius: 0px;
+    box-shadow: rgb(255, 255, 255) 2px 1px 5px 0px;
+    padding-top: 20px;
+}
+		.thumbnail{
+		text-align: center;
+	}
+
+.details .title {
+    color: #3D2D48;
+    font-family: Varela Round;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    background: rgba(255,255,255,0.9);
+    border: 0px solid #BDBDBD;
+    border-radius: 60px;
+    box-shadow: 0 0 5px #333;
+    width: 50%;
+    padding: 5px 0px;
+}
+	.banner-search button.searchButton{
+		top: 5px;
+	}
+	.select-duration:after{
+		top: 15px;
+	}
+	.teacher-thumbnail-container{
+		/*width: 300px;*/
+		margin: auto;
+	}
+	.footer-section {
+    	padding: 45px 0px 20px;
+	}
+	.footer-section .col-md-3, .footer-section .col-md-2 {
+    	width: 100%;
+    	max-width: 100%;
+    	flex: 0 0 100%;
+    	margin-bottom: 20px;
+	}
+	.stay-updated-section h3 {
+    	font-size: 18px;
+    	line-height: 26px;
+	}
+	.stay-updated-section p {
+    	font-size: 14px;
+    	line-height: 20px;
+	}
+	.samitya-button a{
+		padding: 12px 45px;
+	}
+	.tag {
+    	margin-bottom: 15px;
+	}
+	.main-title.tag-title:before {
+    	top: 40px;
+	}
+	.offer-graphic{
+		width: 300px;
+	}
+	.samitya-header-inner{
+		padding: 0px 15px;
+	}
+	.login-signup-button{
+		margin: 0px auto 0px;
+	}
+	.login-signup a{
+		font-size: 13px;
+		line-height: 16px;
+	}
+	.login{
+    	padding: 10px 5px 10px 20px;
+	}
+	.signup {
+    	padding: 10px 20px 10px 5px;
+	}
+	.login-signup-button{
+		width: 170px;
+	}
+	.banner-text h1 {
+    	font-size: 26px;
+    	line-height: 30px;
+    	margin-bottom: 10px;
+	}
+	.banner-text p {
+    	font-size: 12px;
+    	line-height: 16px;
+	}
+	.banner-search input {
+    	font-size: 12px;
+    	padding: 12px 15px;
+	}
+	.banner-search input{
+		width: 100%;
+	}
+	.banner-search input{
+		background-size: 16px;
+		background-position: right 10px center;
+	}
+	.bannerHolder {
+    	padding: 80px 0px;
+	}
+	.main-title {
+    	font-size: 22px;
+    	line-height: 28px;
+    	padding: 0px 10px;
+	}
+	.main-title:before{
+		top: 40px;
+	}
+	.main-title br{
+		display: none;
+	}
+	.main-title.teacher-thumbnail-title:before {
+    	top: 70px;
+	}
+	.card-columns {
+    	column-count: 1;
+    	margin-bottom: 30px;
+	}
+	.thumbnailBox {
+    	min-height: 340px;
+	}
+	/*.teacher-thumbnail-section {
+    	padding: 60px 0px 30px;
+	}*/
+	.update-buttons a{
+		margin-bottom: 20px;
+	}
+	.footer-bottom{
+
+	}
+	.footer-social ul{
+		text-align: center;
+    	margin-top: 5px;
+	}
+	.copyright{
+		text-align: center;
+	}
+	/*.tag a {
+    	font-size: 12px;
+    	line-height: 11px;
+	}*/
+	.samitya-header {
+    	padding: 10px 0px;
+	}
+	.login-signup-button {
+    	margin: 20px auto 0px
+	}
+}
+
+@media (min-width: 1281px) {
+  
+a.btn.dropdown-toggle {
+    border: 1px solid #eee;
+    border-radius: 100px;
+    box-shadow: 0px 2px 1px 0px #d8d8d8;
+    padding: 3px 10px 3px 10px;
+}
+  
+}
+
+
+@media (min-width: 768px) and (max-width: 1000px) {
+   /*.collapse {
+       display: none !important;
+   }*/
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+.banner-section .play-button{
+    width: 70%;
+}
+
+
+.sub_btn h3 {
+    font-size: 24px;
+    color: #3D2D48;
+    padding: 7px 6px;
+    margin-bottom: 5px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+}
+.trial_popular_text {
+    position: absolute;
+    top: 4px;
+    right: 51px;
+    color: #FFFFFF;
+    font-family: Varela Round;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    background: linear-gradient(to right,#FB5F2F,#FD1564);
+    /* border: 1px solid #E0E0E0; */
+    /* border-radius: 5px; */
+    padding: 1px 5px;
+}
+
+	.col-md-7.mk-bor-2 {
+    border: 1px none rgb(0, 0, 0);
+    border-radius: 0px;
+    box-shadow: rgb(255, 255, 255) 2px 1px 5px 0px;
+    padding-top: 20px;
+}
+		.thumbnail{
+		text-align: left;
+	}
+	.larg {
+    height: calc(1.25rem + 28px) !important;
+    border-radius: 0px;
+    text-align: left;
+}
+  
+.banner-search .searchbar {
+    width: 100%;
+    padding: 5px 10px;
+        height: 50px;
+}
+.searchbar .search_input {
+    width: 85%;
+}
+.teacher-slider .box {
+    width: 300px !important;
+    height: 300px !important;
+}   
+div#feedback {
+    display: none;
+}
+.samitya-header-inner {
+    padding: 0px;
+}
+.navbar {
+    padding: 5px 10px;
+
+}
+
+
+.feature-icon{
+    width: 200px;
+    height: auto;
+}
+.feature-icon.chat-icon img {
+    height: 120px;
+}
+
+.row.mt40 .tag:nth-child(4) , .row.mt40 .tag:nth-child(5) {
+    text-align: center;
+}
+
+
+
+
+/*Mobile Menu Style*/
+.samitya-menu .navbar-collapse ul li {
+    padding: 5px 0px;
+}
+.samitya-menu .navbar-collapse ul li:not(:last-child) {
+    border-bottom: #ccc solid 1px;
+}
+    
+.samitya-menu .navbar-collapse ul li .btn-group {
+    width: 100%;
+}
+.samitya-menu .navbar-collapse ul li .btn-group a.btn.dropdown-toggle {
+    box-shadow: none;
+    border: 0px;
+    padding: 0px;
+    width: 100%;
+    text-align: left;
+    font-size: 13px;
+    color: #3d2d48;
+    position: absolute;
+    top: -14px;
+}
+.samitya-menu .navbar-collapse ul li .btn-group .dropdown-toggle::after {
+    right: 10px;
+    position: absolute;
+    top: 10px;
+}
+.samitya-menu .navbar-collapse ul li.mk-li-rel img {
+    display: none;
+}
+.navbar-nav .dropdown-menu {
+    width: 100%;
+    border: none;
+    margin-top: 20px;
+    padding: 0px;
+}
+.samitya-menu .navbar-collapse ul li:last-child {
+    border: none;
+}
+.login-signup-button {
+    width: 100%;
+}
+.login-signup-button .login-signup a {
+    padding: 0px 20px;
+    margin-right: 10px;
+}
+.samitya-menu .navbar-collapse ul li .btn-group.show a.btn.dropdown-toggle {
+    font-weight: 600;
+    top: 0px;
+}
+.modal-body .nws-button button{
+	    height: 50px;
+	    font-size: 15px;
+}
+
+
+.dropdown-menu {display: block;visibility: hidden;opacity:0;transform: translateY(50px);transition:.5s ease all;}
+.dropdown-menu.show {display: block;visibility: visible;opacity:1;transform: translateY(0px);transition:.5s ease all;}
+
+#navbarsExampleDefault .category_item {
+	border: none;
+	border-radius: 0px;
+	box-shadow: none;
+	padding: 0px !important;
+	
+}
+/*.samitya-header ul li.live-icon:before{
+	top: unset;
+}*/
+.category_item:after {
+    top: -1px;
+}
+
+
+
+/*Mobile Menu Style*/
+  
+
+
+ .live_page_wrapper {
+    width: 90%;
+    margin: 10px auto;
+	}
+	.live_page_wrapper .text {
+    font-size: 25px;
+    padding: 15px 0px;
+	}
+	.live_page_wrapper .text svg {
+    fill: #fff;
+    width: 55px;
+    height: 55px;
+	}
+	.live_page_section .feature-icon {
+    width: 160px;
+    height: auto;
+    text-align: center;
+	}
+	.live_page_section .feature h3 {
+    margin-top: 10px;
+	}
+	.live_index .thumb-content {
+    position: relative;
+    z-index: 5;
+    min-height: 200px;
+	}
+
+
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 992px) and (max-width: 1024px) and (orientation: landscape) {
+  
+/*.login-signup-button a {
+    padding: 0 15px !important;
+}
+.samitya-header ul li {
+    margin: 0px;
+}
+header a.btn.dropdown-toggle {
+    padding: 0px;
+}
+header ul.navbar-nav {
+    margin: 0px !important;
+}*/
+
+.sub_btn h3 {
+    font-size: 22px;
+    color: #3D2D48;
+    padding: 7px 6px;
+    margin-bottom: 5px;
+}
+
+.row.mt40 .tag:nth-child(4) {
+    text-align: right;
+}
+
+
+
+.liveclass_heading_wrapper {
+     width: 40%; 
+    background: linear-gradient(to right,#FB5F2F,#FD1564);
+    border: none;
+    border-radius: 250px;
+    box-shadow: 0 0 5px #333;
+    margin: 0px auto 40px auto;
+}
+
+
+.feature h3 {
+    color: rgb(61, 45, 72);
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.feature {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background: white;
+    border: 1px solid #fc1b67;
+    box-shadow: 1px 1px 10px 1px #b1aeae;
+}
+
+.feature-icon {
+    width: 230px;
+    height: 145px;
+    margin: 35px auto -4px;
+}
+.language div.lan {
+    margin-bottom: 5px;
+    margin-right: 0px;
+    font-weight: 600;
+    color: #3D2D48;
+    font-size: 22px;
+    line-height: 25px;
+    min-height: 100px;
+}
+
+#popular-course .language .hrs, .other_courses .language .hrs {
+    position: unset;
+    bottom: 15px;
+}
+
+.live_index .thumb-content {
+    position: relative;
+    z-index: 5;
+    min-height: 235px;
+}
+
+
+
+}
+
+
+
+
+/*@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+.login-signup-button a {
+    padding: 0 15px !important;
+}
+.samitya-header ul li {
+    margin: 0px;
+}
+header a.btn.dropdown-toggle {
+    padding: 0px;
+}
+header ul.navbar-nav {
+    margin: 0px !important;
+}
+
+ 
+}*/
+

@@ -1,0 +1,60 @@
+.main{width: 100%; background: #eee;}
+/*General Menu Styling*/
+.mainnav{margin: 0 auto}
+li{list-style: none;}
+li a{text-decoration: none;}
+.dropdown{position: absolute !important ;    z-index: 999; width: 150px;top: 41px; opacity: 0;visibility: hidden;transition: ease-out .35s;-moz-transition: ease-out .35s;-webkit-transition: ease-out .35s;}
+.mainnav li{float: left;padding: 0px;background: maroon;}
+.mainnav li:first-child{border: none;}
+.mainnav li a{ display: block;padding: 0px 0px;color: #fff;}
+.mainnav li:hover{background: #fff;transition: ease-in .35s;-moz-transition: ease-in .35s;-webkit-transition: ease-in .35s;}
+.mainnav li:hover a{    color: #fff !important;transition: ease-in .35s;-moz-transition: ease-in .35s;-webkit-transition: ease-in .35s;}
+/*First Level*/
+.subs {left: 0px;position: relative;top: 0px;width: 175px;border-left: none !important; }
+.subs:last-child{border: none !important;}
+.hassubs:hover .dropdown,.hassubs .hassubs:hover .dropdown{opacity: 1;visibility: visible; transition: ease-in .35s;-moz-transition: ease-in .35s;-webkit-transition: ease-in .35s;}
+/*.mainnav li:hover ul a,.mainnav li:hover ul li ul li a{color: #fc6c46;}*/
+/*.mainnav li ul li:hover,.mainnav li ul li ul li:hover{background: #fc6c46;transition: ease-in-out .35s;-moz-transition: ease-in-out .35s;-webkit-transition: ease-in-out .35s;}*/
+/*.mainnav li ul li:hover a,.mainnav li ul li ul li:hover a{color: maroon;transition: ease-in-out .35s;-moz-transition: ease-in-out .35s;-webkit-transition: ease-in-out .35s;}*/
+/*Second Level*/
+.hassubs .hassubs .dropdown .subs{left: 70%;position: relative;width: 165px;top: 0px;background-color: #fff;}
+.hassubs .hassubs .dropdown{position: absolute;width: 150px;left: 145px;top: 0px;opacity: 0;visibility: hidden;transition: ease-out .35s;-moz-transition: ease-out .35s;-webkit-transition: ease-out .35s;}
+li.subs.hassubs a {
+    color: #3d2d48;
+}
+li.subs.hassubs {
+    background-color: #fff;
+    color: #fc6c46;
+    width: 260px;
+}
+li.subs a {
+    padding: 5px 20px;
+    color: #fc6c46;
+    text-transform: capitalize;
+}
+.menu-item-has-children li:hover {
+    background-color: #3d2d48;
+    color: #fff !important;
+}.menu-item-has-children li:hover a {
+
+    color: #fff !important;
+}
+
+
+.subs.hassubs .dropdown .subs:hover{
+	
+	background: #3d2d48 !important;
+}
+.subs.hassubs .dropdown .subs{
+    background: #fff !important;
+	
+}
+
+.subs.hassubs .dropdown .subs:hover a{
+	color: #fff !important;
+}
+.subs.hassubs .dropdown .subs a{
+	
+	/*background: #fff !important;*/
+    color: #3d2d48 !important;
+}

@@ -1,0 +1,198 @@
+#loader {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: 64px 64px;
+    background-repeat: no-repeat;
+    background-color: rgba(255,255,255,.7);
+    background-position: center center;
+    z-index: 9999;
+}
+.display_duration .one_sec{
+        padding-right: 0px;
+}
+.display_duration .two_sec{
+        padding-left: 5px;
+}
+
+.message-box .sent_msg p {
+    background-color:  #3d2d48 !important;
+}
+
+
+.type_msg #controls {
+    float: left;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.type_msg .text_msg {
+    float: right;
+    padding-left: 0px;
+}
+
+
+#recordButton {
+    font-size: 25px;
+    padding-top: 15px;
+    cursor: pointer;
+    color: #3d2d48;
+    padding-left: 4px;
+}
+#uploadefile{
+    font-size: 25px;
+    padding-top: 15px;
+    cursor: pointer;
+    color: #3d2d48;
+    padding-left: 4px;
+}
+
+i.disable {
+    color: #3d2d48bd !important;
+    pointer-events: none;
+}
+
+.message-box .input_msg_write input, .message-box textarea {
+    padding-right: 85px;
+    padding-top: 10px;
+}
+
+.msg_loader img {
+    
+    max-width: 20% !important;
+}
+
+#pauseButton{
+	position: absolute;
+    right: 65px;
+    top: 19px;
+    font-size: 17px;
+    cursor: pointer;
+    color: #3d2d48;
+	} 
+#stopButton{
+   	position: absolute;
+    right: 40px;
+    top: 19px;
+    font-size: 17px;
+    cursor: pointer;
+    color: #3d2d48;
+}
+
+.message-box .input_msg_write input, .message-box textarea {
+    margin-left: 8px;
+}
+#input_file{
+    background: transparent none repeat scroll 0 0;
+    border: medium none;
+    color: #4c4c4c;
+    font-size: 15px;
+    min-height: 48px;
+    width: 100%;
+    display: none;
+    padding-right: 85px;
+    padding-top: 10px;
+    margin-left: 8px;
+}
+#removefile{
+    float: right;
+}
+
+.download_file {
+    background: #ebebeb;
+    padding: 15px;
+    color: #646464;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.download_file .download {
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 30px;
+    border-top: 2px solid #fff;
+    color: #000;
+}
+.download_file:hover .download{
+    opacity: 0.7;
+}
+
+a:hover{
+    text-decoration: none !important;
+}
+
+#mobile_view #input_file {
+    background: transparent none repeat scroll 0 0;
+    border: medium none;
+    color: #4c4c4c;
+    font-size: 15px;
+    min-height: 48px;
+    width: 100%;
+    display: none;
+    padding-right: 0px;
+    padding-top: 10px;
+    margin-left: 8px;
+}
+#mobile_view #controls_2{
+    padding: 8px;
+    float: right;
+}
+
+#mobile_view #controls_2 #pauseButton {
+    font-size: 17px;
+    cursor: pointer;
+    color: #3d2d48;
+    position: relative;
+    right: 5px;
+    top: 0;
+}
+
+#mobile_view #controls {
+    width: 40%;
+}
+#mobile_view #stopButton{
+    font-size: 18px;
+    cursor: pointer;
+    position: relative;
+    right: 2px;
+    top: 0;
+}
+
+#mobile_view #controls_2 .msg_send_btn{
+    position: relative !important;
+    right: 0px !important;
+    top: 0 !important;
+}
+
+#report_user {
+    margin-right: 15px;
+    margin-top: 4px;
+}
+.block_user{
+    font-size: 16px;
+    padding: 15px;
+    text-align: center;
+    font-weight: 700;
+    color: #3d2d48;
+}
+.uploade_msg{
+    width: 100%;
+    position: relative;
+    clear: both;
+    border-top: 1px solid #c4c4c4;
+    font-style: italic;
+    color: #7b7373;
+    text-align: right;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #3d2d48 !important;
+    color: white !important;
+}
+.select2-results__option[aria-selected] {
+    font-weight: bold;
+
+}
+ 

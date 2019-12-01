@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec0b7df6-dbf8-43dc-98ac-046621c6581a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app1.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/app1.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41">
+              <caret line="295" column="0" lean-forward="false" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app1.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app1.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="319" column="0" lean-forward="true" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app2.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/app2.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app2.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app2.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-248">
+              <caret line="295" column="0" lean-forward="false" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app3.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app3.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-194">
+              <caret line="314" column="0" lean-forward="false" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app3.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/app3.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="320" column="0" lean-forward="true" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app4.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/app4.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-118">
+              <caret line="364" column="0" lean-forward="false" selection-start-line="364" selection-start-column="0" selection-end-line="364" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app4.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app4.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kernel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-32">
+              <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Chum</find>
+      <find>locale</find>
+      <find>APP_VER</find>
+      <find>app.ve</find>
+      <find>version</find>
+      <find>array_values_recursive</find>
+      <find>Artisan::call</find>
+      <find>Following files</find>
+      <find>&gt;@lang</find>
+      <find>Mtownsend\ReadTime\Providers\ReadTimeServiceProvider</find>
+      <find>\&lt;script\&gt;\n        \@if\(request\(\)\-\&gt;has\(\'user\'\)  \&amp;\&amp; \(request\(\'user\'\) \=\= \'admin\'\)\)\n\n        \$\(\'\#myModal\'\)\.modal\(\'show\'\)\;\n        \$\(\'\#loginForm\'\)\.find\(\'\#email\'\)\.val\(\'admin\@lms\.com\'\)\n        \$\(\'\#loginForm\'\)\.find\(\'\#password\'\)\.val\(\'secret\'\)\n\n        \@elseif\(request\(\)\-\&gt;has\(\'user\'\)  \&amp;\&amp; \(request\(\'user\'\) \=\= \'student\'\)\)\n\n        \$\(\'\#myModal\'\)\.modal\(\'show\'\)\;\n        \$\(\'\#loginForm\'\)\.find\(\'\#email\'\)\.val\(\'student\@lms\.com\'\)\n        \$\(\'\#loginForm\'\)\.find\(\'\#password\'\)\.val\(\'secret\'\)\n\n        \@elseif\(request\(\)\-\&gt;has\(\'user\'\)  \&amp;\&amp; \(request\(\'user\'\) \=\= \'teacher\'\)\)\n\n        \$\(\'\#myModal\'\)\.modal\(\'show\'\)\;\n        \$\(\'\#loginForm\'\)\.find\(\'\#email\'\)\.val\(\'teacher\@lms\.com\'\)\n        \$\(\'\#loginForm\'\)\.find\(\'\#password\'\)\.val\(\'secret\'\)\n\n        \@endif\n    \&lt;\/script\&gt;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/locale.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/.env.example" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Backend/UpdateController.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/update/file-list.blade.php" />
+        <option value="$PROJECT_DIR$/storage/app/public/.gitignore" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/layouts/app1.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/layouts/app2.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/layouts/app3.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/layouts/app4.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app1.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app2.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app3.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app4.blade.php" />
+        <option value="$PROJECT_DIR$/app/Console/Kernel.php" />
+        <option value="$PROJECT_DIR$/.env" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cache" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="debugbar" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cache" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cache" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="data" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sessions" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="testing" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="neon-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neon-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="logs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="app4&#9;FILE&#9;file:///Users/eyuva/Sites/neon-test/resources/views/frontend-rtl/layouts/app4.blade.php&#10;app3&#9;FILE&#9;file:///Users/eyuva/Sites/neon-test/resources/views/frontend-rtl/layouts/app3.blade.php&#10;app2&#9;FILE&#9;file:///Users/eyuva/Sites/neon-test/resources/views/frontend-rtl/layouts/app2.blade.php&#10;app1&#9;FILE&#9;file:///Users/eyuva/Sites/neon-test/resources/views/frontend-rtl/layouts/app1.blade.php&#10;ap1&#9;FILE&#9;file:///Users/eyuva/Sites/neon-test/resources/views/frontend/layouts/app1.blade.php&#10;Update&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/app/Http/Controllers/Backend/UpdateController.php&#10;app.&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/config/app.php&#10;appse&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/app/Providers/AppServiceProvider.php&#10;configSe&#9;null&#9;null&#10;Upda&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/app/Http/Controllers/Backend/UpdateController.php&#10;web&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/routes/web.php&#10;app.p&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/config/app.php&#10;locales&#9;null&#9;null&#10;we&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/routes/web.php&#10;lis&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/resources/views/vendor/laravel-filemanager/list-view.blade.php&#10;app&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/config/app.php&#10;composer.&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/composer.json&#10;config/loc&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/config/locale.php&#10;appser&#9;null&#9;null&#10;UpdateCont&#9;null&#9;null&#10;app.php&#9;FILE&#9;file:///Users/eyuva/Sites/neon-lms-app/bootstrap/app.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec0b7df6-dbf8-43dc-98ac-046621c6581a" name="Default" comment="" />
+      <created>1555394056614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555394056614</updated>
+      <workItem from="1555394058352" duration="582000" />
+      <workItem from="1555481554790" duration="73000" />
+      <workItem from="1556017293772" duration="50000" />
+      <workItem from="1556018641311" duration="971000" />
+      <workItem from="1556020497527" duration="13000" />
+      <workItem from="1556272238292" duration="243000" />
+      <workItem from="1556712371798" duration="792000" />
+      <workItem from="1556769841460" duration="651000" />
+      <workItem from="1556777482615" duration="7953000" />
+      <workItem from="1556812165814" duration="398000" />
+      <workItem from="1556855666403" duration="5025000" />
+      <workItem from="1556868432544" duration="1024000" />
+      <workItem from="1557397083750" duration="2798000" />
+      <workItem from="1557408584533" duration="56000" />
+      <workItem from="1557410030858" duration="22000" />
+      <workItem from="1557462042499" duration="5869000" />
+      <workItem from="1559715432002" duration="283000" />
+      <workItem from="1561440007007" duration="2634000" />
+      <workItem from="1562223441845" duration="298000" />
+      <workItem from="1562671138834" duration="802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30548000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22603719" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32527205" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/app.php" />
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/.env.example" />
+    <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php" />
+    <entry file="file://$PROJECT_DIR$/config/app.php" />
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/.env.example" />
+    <entry file="file://$PROJECT_DIR$/config/app.php" />
+    <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php" />
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/.env.example" />
+    <entry file="file://$PROJECT_DIR$/config/app.php" />
+    <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php" />
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/.env.example" />
+    <entry file="file://$PROJECT_DIR$/config/app.php" />
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/.env.example" />
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/.env.example" />
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/layouts/app.blade.php" />
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php" />
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2019-05-02.log" />
+    <entry file="file://$PROJECT_DIR$/composer.json" />
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/update/index.blade.php" />
+    <entry file="file://$PROJECT_DIR$/config/locale.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/vendor/laravel-filemanager/list-view.blade.php" />
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2019-05-03.log" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_04_25_095421_create_locales_table.php" />
+    <entry file="file://$PROJECT_DIR$/config/dompdf.php" />
+    <entry file="file://$PROJECT_DIR$/routes/web.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/update/file-list.blade.php" />
+    <entry file="file://$PROJECT_DIR$/database/seeds/ConfigSeeder.php" />
+    <entry file="file://$PROJECT_DIR$/storage/app/public/certificates/.gitkeep" />
+    <entry file="file://$PROJECT_DIR$/storage/app/public/certificates/test.txt" />
+    <entry file="file://$PROJECT_DIR$/storage/app/public/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/.env.example" />
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mtownsend/read-time/src/Providers/ReadTimeServiceProvider.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Backend/UpdateController.php" />
+    <entry file="file://$PROJECT_DIR$/config/app.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/app3.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="320" column="0" lean-forward="true" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/app1.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="295" column="0" lean-forward="false" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app1.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="319" column="0" lean-forward="true" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/app2.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app2.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="295" column="0" lean-forward="false" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app3.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="314" column="0" lean-forward="false" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/app4.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="364" column="0" lean-forward="false" selection-start-line="364" selection-start-column="0" selection-end-line="364" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend-rtl/layouts/app4.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
