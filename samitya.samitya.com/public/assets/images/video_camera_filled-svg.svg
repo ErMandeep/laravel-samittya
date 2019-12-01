@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 32" width="50" height="32">
-	<style>
-		tspan { white-space:pre }
-		.shp0 { fill: #fd2f70 } 
-	</style>
-	<path id="Layer" fill-rule="evenodd" class="shp0" d="M37 5L37 27C37 29.8 34.8 32 32 32L5 32C2.2 32 0 29.8 0 27L0 5C0 2.2 2.2 0 5 0L32 0C34.8 0 37 2.2 37 5ZM50 3.3L50 28.7L39 22.8L39 9.2L50 3.3Z" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="32" viewBox="0 0 50 32"><style>.shp0{fill:#fd2f70}</style><path id="Layer" fill-rule="evenodd" d="M37 5L37 27C37 29.8 34.8 32 32 32L5 32C2.2 32 0 29.8 0 27L0 5C0 2.2 2.2 0 5 0L32 0C34.8 0 37 2.2 37 5ZM50 3.3L50 28.7L39 22.8L39 9.2L50 3.3Z" class="shp0"/></svg>
